@@ -3,7 +3,7 @@
 These exercises are taken from Simon Sez IT's VBA Macros YouTube tutorial: https://www.youtube.com/watch?v=KeCAdNVTr70
 ## Exercise #1: Click on Already Built-In Macros 
 Examples of Macros xlsm sheet 
-Macros Used in Exercise: 
+<p>Macros Used in Exercise: 
 * Delete blank rows           
 * Apply accounting format     
 * Paste Values                
@@ -11,7 +11,7 @@ Macros Used in Exercise:
 * Remove Hyperlink
 * Apply New Worksheet 
 * Highlight cells 
-* Apply Calculate Percentage
+* Apply Calculate Percentage</p>
 ## Exercise #2: Create an Absolute Referencing Macros
 Absolute Referencing Macros xlsm sheet
 ## Exercise #3: Create a Relative Referencing Macros
